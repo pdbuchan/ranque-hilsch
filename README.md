@@ -4,7 +4,7 @@ A simple Ranque-Hilsch effect (vortex) tube built largely from off-the-shelf plu
 
 ![Finished Ranque-Hilsch effect tube](docs/assets/images/finished2.jpg)
 
-The illustrated project site is available at the [https://pdbuchan.github.io/ranque-hilsch/](Ranque-Hilsch webpage) on GitHub Pages.
+The illustrated project site is available at the [Ranque-Hilsch webpage](https://pdbuchan.github.io/ranque-hilsch/) on GitHub Pages.
 
 The site contains:
 
